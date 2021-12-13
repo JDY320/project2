@@ -5,4 +5,4 @@
 - asset_corr(df) (Displays correlation matrix for any asset pulled into initial DataFrame)
 - rf_rscore(X,y) (Displays R-Squared score for a given target (y) and features(X))
 - boll_bands(ticker) (Displays line chart with bollinger bands for any ticker found in Yahoo Finance)
-- 
+- algo_trader(ticker) (Displays line chart with bollinger bands, SMAs, and buy/sell signals based on SMA crossovers)
